@@ -1,0 +1,10 @@
+Flask
+torch
+torchvision
+facenet-pytorch
+Pillow
+faiss-cpu
+scikit-learn
+matplotlib
+seaborn
+numpy
